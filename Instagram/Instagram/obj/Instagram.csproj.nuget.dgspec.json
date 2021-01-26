@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/Instagram.csproj": {}
+  },
+  "projects": {
+    "/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/Instagram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/Instagram.csproj",
+        "projectName": "Instagram",
+        "projectPath": "/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/Instagram.csproj",
+        "packagesPath": "/Users/erickmeraz/.nuget/packages/",
+        "outputPath": "/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/erickmeraz/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

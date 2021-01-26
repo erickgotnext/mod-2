@@ -1,0 +1,12 @@
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/bin/Debug/netcoreapp3.1/NewTestProject.deps.json
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/bin/Debug/netcoreapp3.1/NewTestProject.runtimeconfig.json
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/bin/Debug/netcoreapp3.1/NewTestProject.runtimeconfig.dev.json
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/bin/Debug/netcoreapp3.1/NewTestProject.dll
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/bin/Debug/netcoreapp3.1/NewTestProject.pdb
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/obj/Debug/netcoreapp3.1/NewTestProject.csprojAssemblyReference.cache
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/obj/Debug/netcoreapp3.1/NewTestProject.AssemblyInfoInputs.cache
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/obj/Debug/netcoreapp3.1/NewTestProject.AssemblyInfo.cs
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/obj/Debug/netcoreapp3.1/NewTestProject.csproj.CoreCompileInputs.cache
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/obj/Debug/netcoreapp3.1/NewTestProject.dll
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/obj/Debug/netcoreapp3.1/NewTestProject.pdb
+/Users/erickmeraz/Desktop/NewTestProject/NewTestProject/obj/Debug/netcoreapp3.1/NewTestProject.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/bin/Debug/netcoreapp3.1/Instagram.deps.json
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/bin/Debug/netcoreapp3.1/Instagram.runtimeconfig.json
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/bin/Debug/netcoreapp3.1/Instagram.runtimeconfig.dev.json
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/bin/Debug/netcoreapp3.1/Instagram.dll
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/bin/Debug/netcoreapp3.1/Instagram.pdb
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/obj/Debug/netcoreapp3.1/Instagram.csprojAssemblyReference.cache
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/obj/Debug/netcoreapp3.1/Instagram.AssemblyInfoInputs.cache
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/obj/Debug/netcoreapp3.1/Instagram.AssemblyInfo.cs
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/obj/Debug/netcoreapp3.1/Instagram.csproj.CoreCompileInputs.cache
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/obj/Debug/netcoreapp3.1/Instagram.dll
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/obj/Debug/netcoreapp3.1/Instagram.pdb
+/Users/erickmeraz/Desktop/Mod Week 2/Instagram/Instagram/obj/Debug/netcoreapp3.1/Instagram.genruntimeconfig.cache
